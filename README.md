@@ -6,7 +6,11 @@ I utilized what I learned during my Summer with Grainger to create a website for
 ## Summary of Presentation
 
 ### About Me
+- I am a 5th year senior at Illinois Tech. I will be graduating this coming May with both my Bachelor's and Master's degrees in Computer Science.
 
+- I am originally from New Orleans, but I moved to Chicago a few years ago and have absolutely loved every minute of my time here!
+
+- When I am not working or studying, I enjoy cooking, traveling, biking around the city, or sitting by the river with a good book. 
 
 ### My Team
 
